@@ -12,7 +12,9 @@
 }
 
 h1, h2, h3 {
-    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-family: Georgia, sans-serif;
+    font-size: 3em;
+    letter-spacing: -2px;
     text-align: center;
 }
 
