@@ -39,3 +39,7 @@ p {
 li {
     font-size: .85rem;
 }
+
+body {
+    background-color: #f9f9f9;
+}
